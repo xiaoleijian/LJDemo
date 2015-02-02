@@ -10,31 +10,29 @@
 	<string>Demo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>2F100233BF1A4D23636EF1E31F886401978AECA4</key>
-		<string>https://github.com/xiaoleijian/LJDemo.git</string>
+		<key>38a15a36-4d59-372e-3a52-ce57b7db7bff</key>
+		<string>https://417414605%40qq.com@github.com/xiaoleijian/LJDemo.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Demo/Demo.xcodeproj</string>
+	<string>trunk/Demo/Demo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>2F100233BF1A4D23636EF1E31F886401978AECA4</key>
-		<string>../../..</string>
+		<key>38a15a36-4d59-372e-3a52-ce57b7db7bff</key>
+		<string>../../../..</string>
 	</dict>
-	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/xiaoleijian/LJDemo.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>2F100233BF1A4D23636EF1E31F886401978AECA4</string>
+	<string>38a15a36-4d59-372e-3a52-ce57b7db7bff</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
+			<string>public.vcs.subversion</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>2F100233BF1A4D23636EF1E31F886401978AECA4</string>
+			<string>38a15a36-4d59-372e-3a52-ce57b7db7bff</string>
 			<key>IDESourceControlWCCName</key>
-			<string>LJDemo</string>
+			<string>LJDemo.git</string>
 		</dict>
 	</array>
 </dict>
