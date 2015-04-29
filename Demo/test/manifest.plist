@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.12/www/1.ipa</string>
+					<string>https://github.com/xiaoleijian/LJDemo/raw/master/Demo/test/yuntu.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
